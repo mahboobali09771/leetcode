@@ -10,8 +10,16 @@ public:
             } 
         }
         return k;
+    }
+};
+
+// 2nd method without using pointer
+/*
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
         
-        /* // 2nd method without using pointer
+        
         vector<int> ans;
         ans.push_back(nums[0]);
         for(int i=1;i<nums.size();i++){
@@ -21,6 +29,9 @@ public:
             nums[i] = ans[i];
         }
         return ans.size();
-        */
+        
     }
 };
+
+
+*/
