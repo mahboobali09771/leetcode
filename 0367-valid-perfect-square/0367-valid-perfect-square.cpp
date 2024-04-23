@@ -13,6 +13,8 @@ public:
             else lo = mid+1;
         }
         return false;
+        
+        // TC = O(1)
         // int root = sqrt(num);
         // if(root*root==num) return true;
         // else return false;
