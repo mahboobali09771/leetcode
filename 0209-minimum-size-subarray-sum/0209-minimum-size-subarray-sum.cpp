@@ -19,5 +19,5 @@ public:
         }
         if(minLen==INT_MAX) return 0;
         return minLen;
-    }
+    } // TC = O(n) or O(2*n)
 };
