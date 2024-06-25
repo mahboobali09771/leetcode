@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ // 1st method 
  class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
