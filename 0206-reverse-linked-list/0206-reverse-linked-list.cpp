@@ -8,6 +8,30 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+class Solution {
+public:
+  
+    ListNode* reverseList(ListNode* head) {
+        ListNode *prev = NULL, *curr = head, *Next = head;
+        // ListNode* prev = NULL;
+        // ListNode* curr = head;
+        // ListNode* Next = head;
+       while(curr){
+           Next = curr->next;
+           curr->next = prev;
+           prev = curr;
+           curr = Next;
+       }
+        return prev;
+    }
+};
+
+
+
+
+// 2nd method TC = O(n*n)
+/*
 class Solution {
 public:
     ListNode* getNodeAt(ListNode* head, int idx){
@@ -39,3 +63,4 @@ public:
         return head;
     }
 };
+*/
