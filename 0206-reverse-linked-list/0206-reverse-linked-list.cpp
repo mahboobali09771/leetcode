@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// TC = O(n)    SC = O(1)
+// this is iteretive solution
 
 class Solution {
 public:
@@ -26,6 +28,23 @@ public:
         return prev;
     }
 };
+
+
+// this is recursive solution
+/*
+class Solution {
+public:
+  
+    ListNode* reverseList(ListNode* head) {
+        // base case
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* newHead = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return newHead;
+    }
+};
+*/
 
 
 
