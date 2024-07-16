@@ -25,7 +25,7 @@ public:
         int i = 0;
         int sum = 0;
         while(r){
-            sum += r->val*pow(2,i);
+           if(r->val!=0) sum += r->val*pow(2,i);
             r = r->next;
             i++;
         }
