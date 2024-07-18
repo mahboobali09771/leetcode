@@ -8,23 +8,63 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// 1st method
 
- // 1st method 
- class Solution {
+class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
+        ListNode* first = head;
+        ListNode* second = head;
         ListNode* temp = head;
-        while(--k) temp = temp->next;
-        ListNode* p1 = temp->next;
-        ListNode* p2 = head;
-        while(p1){
-            p1 = p1->next;
-            p2 = p2->next;
+        
+        // Move temp to the k-th node
+        for(int i = 1; i < k; i++) {
+            temp = temp->next;
         }
-        swap(temp->val,p2->val);
+        
+        first = temp;
+        
+        // Move temp to the end to find the k-th node from the end
+        while(temp->next != nullptr) {
+            temp = temp->next;
+            second = second->next;
+        }
+        
+        // Swap values of first and second nodes
+        int t = first->val;
+        first->val = second->val;
+        second->val = t;
+        
         return head;
     }
 };
+
+
+
+
+
+
+ // 2nd method 
+//  class Solution {
+// public:
+//     ListNode* swapNodes(ListNode* head, int k) {
+//         ListNode* temp = head;
+//         while(--k) temp = temp->next;
+//         ListNode* p1 = temp->next;
+//         ListNode* p2 = head;
+//         while(p1){
+//             p1 = p1->next;
+//             p2 = p2->next;
+//         }
+//         swap(temp->val,p2->val);
+//         return head;
+//     }
+// };
+
+
+
+
+// 3rd method
 
 // class Solution {
 // public:
