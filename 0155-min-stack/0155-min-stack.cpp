@@ -1,4 +1,37 @@
-// m2 
+
+
+// m2  TC O(n) SC O(1)
+class MinStack {
+public:
+    vector<int>v;
+    MinStack() { // constructor
+        
+    }
+    
+    void push(int val) { // O(1)
+        v.push_back(val);
+    }
+    
+    void pop() { // O(1)
+        v.pop_back();
+    }
+    
+    int top() { // O(1)
+        return v[v.size()-1];
+    }
+    
+    int getMin() { // O(n)
+        int mn = v[0];
+        for(int i=1;i<v.size();i++){
+            mn = min(mn,v[i]);
+        }
+        return mn;
+    }
+};
+
+
+// m3  TC O(1) SC O(n)
+/*
 class MinStack {
 public:
     stack<int>st;
@@ -13,20 +46,23 @@ public:
         else helper.push(helper.top());
     }
     
-    void pop() {
+    void pop() { // O(1)
         st.pop();
         helper.pop();
     }
     
-    int top() {
+    int top() { // O(1)
         return st.top();
     }
     
-    int getMin() {
+    int getMin() { // O(1)
     return helper.top();
     }
 };
-// brute force method
+*/
+
+
+//m4 brute force method
 /*
 class MinStack {
 public:
