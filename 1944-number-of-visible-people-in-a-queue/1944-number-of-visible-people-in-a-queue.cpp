@@ -5,7 +5,7 @@ public:
         vector<int>ans(n,0);
         stack<int>st;
         st.push(heights[n-1]);
-      //  ans[n-1] = 0;
+        ans[n-1] = 0;
         for(int i=n-2;i>=0;i--){
             int count = 0;
             // pop and count
