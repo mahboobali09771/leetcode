@@ -1,6 +1,48 @@
-
+// m1 TC O(1) SC O(1)
+class MinStack {
+public:
+    stack<long long> st;
+    long long min;
+    MinStack() { // constructor
+        min = LLONG_MAX;
+    }
+    
+    void push(int val) { // O(1)
+        long long x = (long long)val;
+        if(st.size()==0){
+            st.push(x);
+            min = x;
+        }
+        else if(x>=min) st.push(x);
+        else { // val < min
+            st.push(2*x-min);
+            min = x;  
+        }
+    }
+    
+    void pop() { // O(1)
+        if(st.top()<min) { // A fake value is present
+            // before popping make sure to retrieve the old min
+            int oldMin = 2*min - st.top();
+            min = oldMin;
+            
+        }
+        st.pop();
+    }
+    
+    int top() { // O(1)
+        if(st.top()<min) return (int)min;
+        else return (int)st.top();
+    }
+    
+    int getMin() { // O(1)
+        
+        return (int)min;
+    }
+};
 
 // m2  TC O(n) SC O(1)
+/*
 class MinStack {
 public:
     vector<int>v;
@@ -28,6 +70,8 @@ public:
         return mn;
     }
 };
+*/
+
 
 
 // m3  TC O(1) SC O(n)
@@ -62,7 +106,7 @@ public:
 */
 
 
-//m4 brute force method
+//m4 brute force method TC O(n) SC O(n)
 /*
 class MinStack {
 public:
