@@ -1,3 +1,33 @@
+// m2 
+class MinStack {
+public:
+    stack<int>st;
+    stack<int>helper;
+    MinStack() { // constructor
+        
+    }
+    
+    void push(int val) { // O(1)
+        st.push(val);
+        if(helper.size()==0 || val<helper.top()) helper.push(val);
+        else helper.push(helper.top());
+    }
+    
+    void pop() {
+        st.pop();
+        helper.pop();
+    }
+    
+    int top() {
+        return st.top();
+    }
+    
+    int getMin() {
+    return helper.top();
+    }
+};
+// brute force method
+/*
 class MinStack {
 public:
     stack<int>st;
@@ -32,6 +62,7 @@ public:
         return mn;
     }
 };
+*/
 
 /**
  * Your MinStack object will be instantiated and called as such:
