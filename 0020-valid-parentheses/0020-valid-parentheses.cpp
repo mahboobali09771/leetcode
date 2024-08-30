@@ -22,10 +22,7 @@ public:
                 else if(st.top()=='{') st.pop();
                  else return false;
             }
-            // else{ // s[i]==')' || s[i]==']' || s[i]=='}'
-            //     if(st.size()==0) return false;
-            //     else st.pop();
-            // }
+           
         }
         if(st.size()==0) return true;
         else return false;
