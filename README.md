@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## String
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
