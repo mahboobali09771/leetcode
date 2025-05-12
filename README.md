@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1319-unique-number-of-occurrences](https://github.com/mahboobali09771/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/mahboobali09771/leetcode/tree/master/0242-valid-anagram) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1319-unique-number-of-occurrences](https://github.com/mahboobali09771/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
