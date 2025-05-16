@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/mahboobali09771/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mahboobali09771/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahboobali09771/leetcode/tree/master/0242-valid-anagram) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/mahboobali09771/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mahboobali09771/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mahboobali09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -156,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
+| [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
