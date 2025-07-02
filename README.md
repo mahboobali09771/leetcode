@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mahboobali09771/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahboobali09771/leetcode/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/mahboobali09771/leetcode/tree/master/1013-fibonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mahboobali09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -242,4 +243,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahboobali09771/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahboobali09771/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahboobali09771/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
