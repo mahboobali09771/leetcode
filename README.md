@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahboobali09771/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mahboobali09771/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1217-relative-sort-array](https://github.com/mahboobali09771/leetcode/tree/master/1217-relative-sort-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/mahboobali09771/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahboobali09771/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1217-relative-sort-array](https://github.com/mahboobali09771/leetcode/tree/master/1217-relative-sort-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mahboobali09771/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahboobali09771/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mahboobali09771/leetcode/tree/master/0125-valid-palindrome) |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahboobali09771/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Design
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
