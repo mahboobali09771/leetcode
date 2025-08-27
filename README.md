@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mahboobali09771/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mahboobali09771/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahboobali09771/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahboobali09771/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mahboobali09771/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mahboobali09771/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
