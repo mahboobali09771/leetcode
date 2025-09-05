@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mahboobali09771/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/mahboobali09771/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -261,16 +262,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahboobali09771/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahboobali09771/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mahboobali09771/leetcode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahboobali09771/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mahboobali09771/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0948-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
