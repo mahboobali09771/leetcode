@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mahboobali09771/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/mahboobali09771/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahboobali09771/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/mahboobali09771/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mahboobali09771/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahboobali09771/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahboobali09771/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahboobali09771/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahboobali09771/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mahboobali09771/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mahboobali09771/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/mahboobali09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/mahboobali09771/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahboobali09771/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
